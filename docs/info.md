@@ -17,4 +17,4 @@ if a =1 and b=1 sum =0 and carry = 1
 
 ## External hardware
 
-thangante......
+no
